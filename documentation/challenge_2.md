@@ -4,8 +4,8 @@
 
 ## Microsite To Onboard Users To PoolTogether
 
-The microsite aims to add subtle and elaborated animations to create the sense of trust in the potential user of the technology, using light gray and the purple brand color to be in line with the perception we want to achieve. We have selected carefully the used colors to transmit: peace (light gray), trust (purple), with a little of joy (yellow).
+The microsite aims to add subtle and elaborated animations to create a sense of trust in the potential user of the technology, using light gray and the purple brand color to be in line with the perception we want to achieve. We have selected the used colors carefully to transmit: peace (light gray), trust (purple), with a little of joy (yellow).
 
 ## Link
-* [Website code](https://youtu.be/GHsPSn6A2qE)
-* [Website live](https://youtu.be/GHsPSn6A2qE)
+* [Website code](https://github.com/nestorbonilla/pool-together/tree/master/pt-dapp)
+* [Website live](https://pt.digitalbonds.org)
