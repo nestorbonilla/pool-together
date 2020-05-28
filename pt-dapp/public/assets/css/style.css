@@ -1,5 +1,5 @@
-/*  Website: Be The One
-    Author: Digital Bonds
+/*  Website: Pool Together
+    Author: Nestor Bonilla
     File Description: Main CSS file
 */
 
@@ -1480,6 +1480,20 @@ ul.pattern .color8 {
 .btn-yellow {
     background-color: #FFCF00;
     border-color: #FFCF00;
+    color: #8840FA;
+    font-weight: 500;
+}
+
+.btn-yellow:hover {
+    background-color: #F485FB;
+    border-color: #F485FB;
+    color: #8840FA;
+    font-weight: 500;
+}
+
+.btn-yellow:active {
+    background-color: #F485FB;
+    border-color: #F485FB;
     color: #8840FA;
     font-weight: 500;
 }
