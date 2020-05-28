@@ -1,0 +1,61 @@
+/*  Website: Be The One
+    Author: Digital Bonds
+    File Description: Main CSS file
+*/
+
+.play-btn {
+    color: #8840FA !important;
+}
+
+.text-custom,
+.read-btn,
+.navbar-custom.navbar-white .navbar-nav li.active a,
+.navbar-custom.navbar-white .navbar-nav li a:hover,
+.navbar-custom.navbar-white .navbar-nav li a:focus,
+.navbar-custom.navbar-white .navbar-nav li a:active,
+.blog-title:hover,
+.social-icon:hover i {
+    color: #FFCF00 !important;
+}
+
+
+.section-title-border,
+.bg-custom,
+.btn-custom,
+.features-item-list li:before,
+.process-left-icon-1 i,
+.process-left-icon-2 i {
+    background-color: #8840FA;
+}
+
+
+
+.btn-custom,
+.play-btn {
+    border-color: #8840FA !important;
+}
+
+.btn-custom:hover,
+.btn-custom:focus,
+.btn-custom:active,
+.btn-custom.active,
+.btn-custom.focus,
+.btn-custom:active,
+.btn-custom:focus,
+.btn-custom:hover,
+.open>.dropdown-toggle.btn-custom {
+    background-color: #F485FB;
+}
+
+
+.btn-custom:hover,
+.btn-custom:focus,
+.btn-custom:active,
+.btn-custom.active,
+.btn-custom.focus,
+.btn-custom:active,
+.btn-custom:focus,
+.btn-custom:hover,
+.open>.dropdown-toggle.btn-custom {
+    border-color: #F485FB !important;
+}
